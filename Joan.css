@@ -1,0 +1,35 @@
+body {font-family: sans-serif;
+}
+
+
+h1 {
+	text-align: center;
+ }
+
+
+    UL {
+	list-style-type: none; margin: 0; padding: 0:
+    }
+
+
+    li {
+	display: flex: padding: 10px; border-bottom: 1px solid block;}
+
+
+
+    img{
+
+	width: 50px;
+
+	height: 50px;
+    }
+
+
+h2 {     margin-left: 10px;
+
+        margin-left: 10px;
+}
+
+P {
+    margin-left:10px ;
+}
