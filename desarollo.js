@@ -1,5 +1,5 @@
 // Importamos los archivos CSS 
-import './styles.css';
+import './Joan.css';
 
 // Creamos una función para generar un número aleatorio entre 1 y 6
 function generarNumeroAleatorio() {
