@@ -1,40 +1,18 @@
-body {font-family: sans-serif;
+#dados {
+    display: flex;
 }
 
-
-h1 {
-	text-align: center;
+.dado {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid #000;
+    background-size: cover;
 }
 
-
-    ul {
-	list-style-type: none;
-    margin: 0; 
-    padding: 0;
-}
-
-
-    li {
-	display: flex; 
-    padding: 10px; 
-    border-bottom: 1px solid block;
-}
-
-
-
-    img{
-
-	width: 50px;
-
-	height: 50px;
-    }
-
-
-h2 {     margin-left: 10px;
-
-        margin-left: 10px;
-}
-
-P {
-    margin-left:10px ;
+#lanzar {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
 }
